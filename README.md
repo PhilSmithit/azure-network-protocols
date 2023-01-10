@@ -25,10 +25,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create a new virtual machine in Azure that will be used as the domain controller.
+- Connect to the virtual machine using Remote Desktop Protocol (RDP).
+- Once connected, open the "Server Manager" and click on the "Add roles and features" option.
+- Follow the prompts to add the "Active Directory Domain Services" role to the virtual machine.
+- After the role has been installed, click on the "Promote this server to a domain controller" option.
+- Follow the prompts to configure the active directory domain. You will need to specify the name of the domain and the forest functional level.
+- Once the active directory configuration is complete, you can create user accounts and groups, and join other virtual machines to the domain.
 
 <h2>Actions and Observations</h2>
 
