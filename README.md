@@ -20,12 +20,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Ubuntu Server 20.04
 
 <h2>High-Level Steps</h2>
-- Create Resource Groups and Virtual Machines
-- Install & Run Wireshark
-- Observe ICMP Traffic
-- Observe SSH Traffic
-- Observe DHCP Traffic
-- Observe RDP Traffic
+-Create Resource Groups and Virtual Machines
+-Install & Run Wireshark
+-Observe ICMP Traffic
+-Observe SSH Traffic
+-Observe DHCP Traffic
+-Observe RDP Traffic
 
 
 <h2>Actions and Observations</h2>
