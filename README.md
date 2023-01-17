@@ -201,7 +201,7 @@ Ping VM2's Privite IP Address from Powershell and observe
 <img src="https://i.imgur.com/Czwi4Gh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Azure Portal -> Resource Group -> VM2- nsg -> Inbound Secruity Rules -> Add 
+1. Azure Portal -> Resource Group -> VM2- nsg -> Inbound Secruity Rules -> +Add 
  <p> 
   2. Here we will add a ICMP Rule to stop all incoming ICMP traffic to VM2
   <p> 3. ICMP -> Priority 200 -> Name "DENY_ALL_ICMP -> Add
@@ -216,19 +216,18 @@ Here you can see ICMP traffic has now stopped
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/OiRuIal.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Observe SSH Traffic</h2>
 
 <p>
+<img src="https://i.imgur.com/OiRuIal.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/RsgLlEX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On your VM1 machine we are going to SSH into the VM2 Machine(Linix Server Computer)
+ <p>
+  1. In via Powershell use the command "ssh localhostname@Private IP Address") and hit enter
+  <p>
+   2. Enter the same password you use to create the VM2 machine (Note: the password will not show up when you type)
 </p>
 <br />
 
