@@ -169,7 +169,7 @@ Open download and navigate through and install
 
 <p>
 <img src="https://i.imgur.com/1Ib8AqO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/9GEGaCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lCgoUWw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open Wireshark and observe the traffic comming through
