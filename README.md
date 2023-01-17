@@ -46,7 +46,7 @@ Go to Virtual Machine Portal
 <img src="https://i.imgur.com/cETHG7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. You can create a Resource Group when creating a Virtual Machine here
 </p>
 <br />
 
@@ -54,7 +54,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/Mi33xad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Name the Machine VM1
+ <p>
+  2. Select regieon that is closes to you
+  <p> 
+   3. Create a Windows 10 image
+   <p> 
+    4. Make sure the size is at least 2 vcpu
+    <p>
+     5. Username and password
 </p>
 <br />
 
