@@ -36,9 +36,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/knC6eiM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Virtual Machine Portal
+1. Go to Virtual Machine Portal
 <p>
- Create Virtual Machine
+ 2. Create Virtual Machine
 </p>
 <br />
 
@@ -46,7 +46,7 @@ Go to Virtual Machine Portal
 <img src="https://i.imgur.com/cETHG7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. You can create a Resource Group when creating a Virtual Machine here
+You can create a Resource Group when creating a Virtual Machine here
 </p>
 <br />
 
