@@ -259,23 +259,31 @@ Once we are SSH into the computer we can see the local host name in the command 
 <img src="https://i.imgur.com/u5mBDXs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ In via PowerShell "ipconfig /renew" and Observe
+<p>
 Observing DHCP traffic involves capturing network packets that contain DHCP protocol communications. By analyzing the DHCP traffic, you can gain insight into DHCP client and server interactions, including DHCP lease assignments, IP address conflicts, and other network issues.
 </p>
 <br />
+
+<h2>Observe DNS Traffic</h2>
 
 <p>
 <img src="https://i.imgur.com/9bJ8btv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ In via PowerShell "nslookup ww.google.com"
+<p>
+By analyzing the DNS traffic, you can gain insight into DNS queries, responses and other information such as DNS resolution errors, and type of queries such as A, MX, and SOA. This can help you understand how your DNS infrastructure is functioning, identify potential issues and optimize performance. 
 </p>
 <br />
+
+<h2>Observe RDP Traffic</h2>
 
 <p>
 <img src="https://i.imgur.com/8cillj3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
