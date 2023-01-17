@@ -75,7 +75,6 @@ Make sure to create a default Virtual Network
 </p>
 <br />
 
-
 <p>
 <img src="https://i.imgur.com/tC3NNs7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
