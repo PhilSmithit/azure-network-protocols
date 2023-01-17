@@ -225,7 +225,7 @@ Here you can see ICMP traffic has now stopped
 <p>
 On your VM1 machine we are going to SSH into the VM2 Machine(Linix Server Computer)
  <p>
-  1. In via Powershell use the command "ssh localhostname@Private IP Address") and hit enter
+  1. In via Powershell use the command "ssh localhostname@PrivateIPAddress") and hit enter
   <p>
    2. Enter the same password you use to create the VM2 machine (Note: the password will not show up when you type)
 </p>
@@ -235,7 +235,21 @@ On your VM1 machine we are going to SSH into the VM2 Machine(Linix Server Comput
 <img src="https://i.imgur.com/0rLSjov.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once we are SSH into the computer we can see the local host name in the command line
+ <p>
+  Here are some basic Linux commands:
+
+- ls - Lists the files and directories in the current directory.
+- cd - Changes the current directory.
+- mkdir - Creates a new directory.
+- rmdir - Deletes an empty directory.
+- touch - Creates a new file.
+- rm - Deletes a file.
+- cp - Copies a file.
+- mv - Renames or moves a file.
+- pwd - Shows the current working directory.
+- man - Shows the manual for a command.
+
 </p>
 <br />
 
